@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "PROXY server01.pac.itzmx.com:25;";
+var proxy = "PROXY 45.32.34.20:25;";
 
 var domains = {
   "share.dmhy.org": 1,
